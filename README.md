@@ -84,14 +84,6 @@ Alfido-Tech-Internship-Tasks/
 
 ---
 
-### Live Demo (Optional – if you upload to GitHub/Netlify)
-- Task 1 → https://yourname-task1.netlify.app  
-- Task 4 → https://yourname-todo.netlify.app  
-
-*(Replace with actual links if hosted)*
-
----
-
 ### Final Words
 I enjoyed working on these tasks and went the extra mile (especially on Task 4) to deliver **clean, modern, and professional** solutions that exceed basic requirements.
 
