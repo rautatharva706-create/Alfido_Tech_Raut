@@ -67,10 +67,10 @@ This repository contains **4 individual frontend tasks** assigned during my inte
 
 ### Folder Structure
 Alfido-Tech-Internship-Tasks/
-├── Task-01-Simple-Webpage-YourName/
-├── Task-02-Responsive-Navbar-YourName/
-├── Task-03-Random-Color-Changer-YourName/
-├── Task-04-ToDo-List-App-PRO-YourName/
+├── Task-01-Simple-Webpage-Atharva/
+├── Task-02-Responsive-Navbar-Atharva/
+├── Task-03-Random-Color-Changer-Atharva/
+├── Task-04-ToDo-List-App-PRO-Atharva/
 └── README.md (this file)
 
 
