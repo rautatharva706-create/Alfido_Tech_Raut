@@ -1,0 +1,21 @@
+Alfido-Tech-Internship-Tasks/
+│
+├── Task-01-Simple-Webpage-YourName/
+│   ├── index.html
+│   ├── style.css
+│   └── images/
+│       └── profile.jpg   (put your photo here or use placeholder)
+│
+├── Task-02-Responsive-Navbar-YourName/
+│   ├── index.html
+│   └── (Bootstrap CDN used - no extra files)
+│
+├── Task-03-Random-Color-Changer-YourName/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── Task-04-ToDo-List-App-YourName/
+    ├── index.html
+    ├── style.css
+    └── script.js
